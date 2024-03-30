@@ -101,7 +101,7 @@ elseif isMouseEnabled and isMouseEnabled and isTouchEnabled then
         tool.Parent = player.Backpack
     end)
     
-    NotifyLib.prompt('Hybird Mobile V Tool', 'V Tool Has Successfully Loaded!', 5)
+    NotifyLib.prompt('tracists Mobile Tool', 'Tracists Has Successfully Loaded!', 5)
 end
 
 Settings = {   
